@@ -1,0 +1,5 @@
+{
+  "name": "Echoes of Choice",
+  "description": "A minimalistic, AI-powered interactive fiction engine where every word matters. Embark on a dynamically branching journey across genres like Cosmic Horror, Cyberpunk, and High Fantasy, guided by the Gemini API.",
+  "requestFramePermissions": []
+}
